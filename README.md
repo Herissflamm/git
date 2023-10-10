@@ -5,7 +5,7 @@ Il s'avère qu'aujourd'hui, l'outil le plus utilisé est git.
 
 Voici quelques exercices permettant de découvrir quelques subtilisés de git.
 
-Je modifie le ficiher readme pour avoir des conflits.
+Je modifie le ficiher readme pour avoir des conflits. HGOIHGHIOGHZEIHIZHGIPEZHG
 
 ## Exercice N°1
 
