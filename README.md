@@ -87,6 +87,7 @@ Vous trouverez une explication [ici](https://pijul.org/manual/why_pijul.html).
 
 Au sein d'un ordinateur, reprenez la rédaction du fichier `README.md` et réalisez votre commit, push. 
 Au sein de l'autre machine, editez également le fichier `README.md` et faites un `git pull`afin de récupérer les modifications apportées par votre binôme. 
+AJOUT EXO
 Votre système devrait refuser le pull et vous demander de commiter ou remiser votre travail. 
 Réalisez un git stash puis reprenez le pull. 
 
